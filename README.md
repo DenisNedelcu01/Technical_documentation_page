@@ -1,0 +1,1 @@
+A documentation page about JavaScript, introduction, differences, variables and other things.
